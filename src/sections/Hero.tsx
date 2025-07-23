@@ -42,7 +42,7 @@ const Hero = () => {
           </p>
           <div className="flex gap-4 justify-center md:justify-start pt-4">
             <a
-              href="/jhondiazcv.pdf"
+              href="/hvjhondiaz.pdf"
               download
               className="px-6 py-3 bg-[#4B0082] text-white rounded-lg font-semibold hover:bg-purple-800 transition"
             >
