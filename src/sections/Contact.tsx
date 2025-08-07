@@ -1,6 +1,6 @@
 // src/sections/Contact.tsx
 import { motion } from "framer-motion";
-import { FaLinkedin } from "react-icons/fa";
+import { FaLinkedin, FaGithub } from "react-icons/fa";
 import img1 from "../assets/img1.jpg";
 import { useState, useEffect } from "react";
 import type { mensajeParcial } from "../types/index";
@@ -173,6 +173,14 @@ const Contact = ({ agregarMensaje }: Props) => {
                 rel="noopener noreferrer"
               >
                 <FaLinkedin className="hover:scale-110 transition-transform" />
+              </a>
+
+              <a
+                href="https://github.com/Jhon199611?tab=repositories"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <FaGithub className="hover:scale-110 transition-transform" />
               </a>
             </div>
           </motion.div>
