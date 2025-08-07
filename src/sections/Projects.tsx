@@ -21,6 +21,15 @@ const projects = [
     image: "/images/proyecto3.png",
     link: "https://posreact.netlify.app/",
   },
+  {
+    id: 3,
+    title: "GifExpertApp",
+    description: "GifExpertApp es una aplicación web desarrollada con React, cuyo objetivo principal es permitir a los usuarios buscar y visualizar GIFs animados relacionados con una categoría específica, utilizando la API pública de Giphy.",
+    year: 2025,
+    technologies: ["Reactjs", "Tailwind", "Typescript","css"],
+    image: "/images/proyecto2.png",
+    link: "https://gifexpertappnew.netlify.app/",
+  },
 ];
 
 const Projects = () => {
