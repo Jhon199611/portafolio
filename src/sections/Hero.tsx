@@ -67,7 +67,7 @@ const Hero = () => {
       >
         {/* Tarjeta 1 */}
         <div className="bg-white shadow-md rounded-xl p-6 border-t-4 border-[#4B0082] transform transition-transform duration-300 hover:scale-105 hover:shadow-xl">
-          <h3 className="text-xl font-bold text-[#4B0082]">+10 Tecnologías</h3>
+          <h3 className="text-xl font-bold text-[#4B0082]">+19 Tecnologías</h3>
           <p className="text-gray-600 mt-2">Dominadas profesionalmente</p>
         </div>
 
@@ -79,7 +79,7 @@ const Hero = () => {
 
         {/* Tarjeta 3 */}
         <div className="bg-white shadow-md rounded-xl p-6 border-t-4 border-[#4B0082] transform transition-transform duration-300 hover:scale-105 hover:shadow-xl">
-          <h3 className="text-xl font-bold text-[#4B0082]">+2 Años</h3>
+          <h3 className="text-xl font-bold text-[#4B0082]">+3 Años</h3>
           <p className="text-gray-600 mt-2">De experiencia real</p>
         </div>
       </motion.div>
