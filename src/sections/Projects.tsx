@@ -28,7 +28,7 @@ const projects = [
     year: 2025,
     technologies: ["Reactjs", "Tailwind", "Typescript","css"],
     image: "/images/proyecto2.png",
-    link: "https://gifexpertappnew.netlify.app/",
+    link: "https://appgiphy.netlify.app/",
   },
 ];
 
