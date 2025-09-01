@@ -19,7 +19,7 @@ const projects = [
     year: 2025,
     technologies: ["Reactjs", "Supabase", "Tailwind", "Typescript","css"],
     image: "/images/proyecto3.png",
-    link: "https://posinventario.netlify.app/",
+    link: "https://posinventary.netlify.app/",
   },
   {
     id: 3,
