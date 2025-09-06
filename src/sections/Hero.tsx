@@ -42,7 +42,7 @@ const Hero = () => {
           </p>
           <div className="flex gap-4 justify-center md:justify-start pt-4">
             <a
-              href="/images/hvjhondiaz.pdf"
+              href="/images/HV_JhonMarioDiaz.pdf"
               download
               className="px-6 py-3 bg-[#4B0082] text-white rounded-lg font-semibold hover:bg-purple-800 transition"
             >
@@ -79,7 +79,7 @@ const Hero = () => {
 
         {/* Tarjeta 3 */}
         <div className="bg-white shadow-md rounded-xl p-6 border-t-4 border-[#4B0082] transform transition-transform duration-300 hover:scale-105 hover:shadow-xl">
-          <h3 className="text-xl font-bold text-[#4B0082]">+3 Años</h3>
+          <h3 className="text-xl font-bold text-[#4B0082]">+2 Años</h3>
           <p className="text-gray-600 mt-2">De experiencia real</p>
         </div>
       </motion.div>
